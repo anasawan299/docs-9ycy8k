@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-w5cumx.privatetalks.online/sitemap.xml
